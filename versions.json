@@ -1,1 +1,14 @@
-
+{
+    "latest_version": "2024.03.15.1430",
+    "published": "2024-03-15T14:30:00",
+    "total_keys": 150,
+    "added": 25,
+    "removed": 5,
+    "updated": 10,
+    "changes": [
+        "Added 25 new PRO keys",
+        "Removed 5 expired BASIC keys",
+        "Updated 10 keys with extended duration"
+    ],
+    "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/public_keys.json"
+}

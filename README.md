@@ -1,2 +1,1 @@
-# StrideX
-Privat Project
+

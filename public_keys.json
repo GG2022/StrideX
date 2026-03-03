@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "key": "KT-CUS-U6IKJEV7W5-14D1A818",
+    "type": "custom",
+    "duration": 30,
+    "duration_unit": "seconds",
+    "created": "2026-03-03T16:00:31.548254",
+    "activated": false,
+    "hwid": null,
+    "activation_date": null,
+    "last_seen": null
+  }
+]
